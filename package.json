@@ -1,0 +1,16 @@
+{
+  "name": "to-do-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3",
+    "uuid-random": "^1.3.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
